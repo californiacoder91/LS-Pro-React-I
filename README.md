@@ -5,10 +5,15 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* let
+		a variable that can be changed 
 	* const
+		a variable that is constant, cannot ever be changed at any time in the program
 	* ES6 Classes
+		'syntactic sugar' - a shortcut for writing functions
 	* import/export
+		calling upon other files to be used in another file. ie calling upon your css file to apply stylization.
 	* JSX
+		an easy syntax that allows the user to write HTML-like code. compiles into normal ES5 Javascript code
 	* this.props
 
 
