@@ -1,0 +1,15 @@
+.Paragraph {
+	font-size: 16px;
+	background-color: DodgerBlue;
+	height: 632px;
+}
+
+img {
+	width:20%;
+	height:auto;
+	border-style: inset;
+	border-color: orange;
+	border-width: 10px;
+	margin: 20px;
+	align-content: center;
+}
